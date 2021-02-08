@@ -1,0 +1,32 @@
+.no_spaces {
+  margin: 0;
+  padding: 0;
+}
+
+.inner_section {
+  padding: 2rem;
+}
+
+.sm_padding {
+  padding: 1rem;
+}
+
+.top_bottom_padding {
+  padding: 2rem 0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.gray {
+  color: $color-gray;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.height_auto {
+  height: auto !important;
+}

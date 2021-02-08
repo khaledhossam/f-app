@@ -1,0 +1,9 @@
+$color-primary: #008000;
+$color-gray: #707070;
+$color-white: #fff;
+
+:root {
+  --color-primary: #{$color-primary};
+  --color-gray: #{$color-gray};
+  --color-white: #{$color-white};
+}

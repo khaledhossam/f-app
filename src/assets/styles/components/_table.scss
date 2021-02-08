@@ -1,0 +1,11 @@
+.table {
+  .table_action {
+    padding: 0.3rem 1rem;
+    border-radius: 0.1rem;
+    color: $color-white;
+    text-decoration: none;
+    &.success {
+      background: #008000;
+    }
+  }
+}
